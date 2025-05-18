@@ -1,5 +1,30 @@
 # React + Vite
 
+##Technologies used
+
+- Node.js
+- React
+- Vite 
+- npm
+
+
+##Create project
+
+- Go to [https://nodejs.org/](https://nodejs.org/) and download the **LTS version (recommended)**. This will automatically install **Node.js** and **npm**.
+
+- Verify the versions of Node.js and npm (Node Package Manager): 
+    - `node -v`
+    - `npm -v`
+
+- Create project:
+    - `npm create vite@latest`
+
+- Install the dependencies:
+    - `npm install`
+
+- Start project:
+    - `npm run dev`
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
